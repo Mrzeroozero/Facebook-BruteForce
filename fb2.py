@@ -2,7 +2,7 @@ import time
 import sys
 
 if sys.version_info[0] !=2: 
-	print('''--------------------------------------
+	print('''-------------HFD------------------
 	REQUIRED PYTHON 2.x
 	use: python fb2.py
 --------------------------------------
